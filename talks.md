@@ -10,3 +10,4 @@
 - [ ] [The Database As a Value - Rich Hickey](https://www.infoq.com/presentations/Datomic-Database-Value#)
 - [ ] [Therapeutic Refactoring by Katrina Owen](https://www.youtube.com/watch?v=J4dlF0kcThQ)
 - [ ] [Turning the database inside out with Apache Samza - Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+- [ ] [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
