@@ -17,5 +17,5 @@
 - [ ] [12-Factor Apps and the HashiStack - Kelsey Hightower](https://www.youtube.com/watch?v=NVl9cIiPF80)
 - [ ] [A Whole New World - Gary Bernhardt](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [ ] [Principles of Technology Leadership - Bryan Cantrill](https://www.youtube.com/watch?v=9QMGAtxUlAc)
-- [ ] [Let's be mainstream! - Evan Czaplicki](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+- [x] [Let's be mainstream! - Evan Czaplicki](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 - [ ] [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
