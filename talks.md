@@ -11,7 +11,7 @@
 - [ ] [Therapeutic Refactoring by Katrina Owen](https://www.youtube.com/watch?v=J4dlF0kcThQ)
 - [ ] [Turning the database inside out with Apache Samza - Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [ ] [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
-- [ ] [You can be a kernel hacker! - Julia Evans](https://www.youtube.com/watch?v=0IQlpFWTFbM)
+- [x] [You can be a kernel hacker! - Julia Evans](https://www.youtube.com/watch?v=0IQlpFWTFbM)
 - [ ] [Inventing on Principle - Bret Victor](https://vimeo.com/36579366)
 - [ ] [Kill "Microservices" before its too late - Chad Fowler](https://www.youtube.com/watch?v=-UKEPd2ipEk)
 - [ ] [12-Factor Apps and the HashiStack - Kelsey Hightower](https://www.youtube.com/watch?v=NVl9cIiPF80)
