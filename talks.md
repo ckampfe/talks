@@ -19,3 +19,5 @@
 - [ ] [Principles of Technology Leadership - Bryan Cantrill](https://www.youtube.com/watch?v=9QMGAtxUlAc)
 - [x] [Let's be mainstream! - Evan Czaplicki](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 - [ ] [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+- [ ] [Transactions: myths, surprises and opportunities - Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
+
