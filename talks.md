@@ -19,7 +19,7 @@
 - [ ] [Principles of Technology Leadership - Bryan Cantrill](https://www.youtube.com/watch?v=9QMGAtxUlAc)
 - [x] [Let's be mainstream! - Evan Czaplicki](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 - [ ] [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
-- [ ] [Transactions: myths, surprises and opportunities - Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
+- [x] [Transactions: myths, surprises and opportunities - Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [ ] [The computer revolution hasnt happened yet - Alan Kay](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 - [ ] [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
 - [ ] [Why Leaders Eat Last - Simon Sinek](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
