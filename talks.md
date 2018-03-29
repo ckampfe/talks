@@ -25,3 +25,4 @@
 - [ ] [Why Leaders Eat Last - Simon Sinek](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [ ] [Patterns of Play - Linda Liukas](https://www.youtube.com/watch?v=vbboehbgAN8)
 - [ ] [Patterns of Effective Delivery - Dan North](https://vimeo.com/43659070)
+- [ ] [BDD As It's Meant To Be Done - Matt Wynne](https://skillsmatter.com/skillscasts/2446-bdd-as-its-meant-to-be-done) (if you don't want to sign up, ping me and I'll share my credentials)
