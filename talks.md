@@ -11,7 +11,7 @@
 - [ ] [Therapeutic Refactoring by Katrina Owen](https://www.youtube.com/watch?v=J4dlF0kcThQ)
 - [ ] [Turning the database inside out with Apache Samza - Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [x] [You can be a kernel hacker! - Julia Evans](https://www.youtube.com/watch?v=0IQlpFWTFbM)
-- [ ] [Kill "Microservices" before its too late - Chad Fowler](https://www.youtube.com/watch?v=-UKEPd2ipEk)
+- [x] [Kill "Microservices" before its too late - Chad Fowler](https://www.youtube.com/watch?v=-UKEPd2ipEk)
 - [ ] [12-Factor Apps and the HashiStack - Kelsey Hightower](https://www.youtube.com/watch?v=NVl9cIiPF80)
 - [x] [A Whole New World - Gary Bernhardt](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [ ] [Principles of Technology Leadership - Bryan Cantrill](https://www.youtube.com/watch?v=9QMGAtxUlAc)
