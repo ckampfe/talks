@@ -23,5 +23,5 @@
 - [ ] [Why Leaders Eat Last - Simon Sinek](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [ ] [Patterns of Play - Linda Liukas](https://www.youtube.com/watch?v=vbboehbgAN8)
 - [ ] [Patterns of Effective Delivery - Dan North](https://vimeo.com/43659070)
-- [ ] [It was never going to work, so let's have some tea - James Mickens](https://vimeo.com/146524997)
+- [x] [It was never going to work, so let's have some tea - James Mickens](https://vimeo.com/146524997)
 - [ ] [Ideology - Gary Bernhardt](https://www.destroyallsoftware.com/talks/ideology)
