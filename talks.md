@@ -25,3 +25,4 @@
 - [ ] [Patterns of Effective Delivery - Dan North](https://vimeo.com/43659070)
 - [x] [It was never going to work, so let's have some tea - James Mickens](https://vimeo.com/146524997)
 - [ ] [Ideology - Gary Bernhardt](https://www.destroyallsoftware.com/talks/ideology)
+- [ ] [Are We There Yet? - Rich Hickey](https://www.youtube.com/watch?v=E4RarTAZ2AY)
