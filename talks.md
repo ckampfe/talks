@@ -9,7 +9,7 @@
 - [x] [Real Software Engineering - Glenn Vanderburg](https://www.youtube.com/watch?v=RhdlBHHimeM)
 - [x] [The Database As a Value - Rich Hickey](https://www.infoq.com/presentations/Datomic-Database-Value#)
 - [ ] [Therapeutic Refactoring by Katrina Owen](https://www.youtube.com/watch?v=J4dlF0kcThQ)
-- [ ] [Turning the database inside out with Apache Samza - Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+- [x] [Turning the database inside out with Apache Samza - Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [x] [You can be a kernel hacker! - Julia Evans](https://www.youtube.com/watch?v=0IQlpFWTFbM)
 - [x] [Kill "Microservices" before its too late - Chad Fowler](https://www.youtube.com/watch?v=-UKEPd2ipEk)
 - [ ] [12-Factor Apps and the HashiStack - Kelsey Hightower](https://www.youtube.com/watch?v=NVl9cIiPF80)
